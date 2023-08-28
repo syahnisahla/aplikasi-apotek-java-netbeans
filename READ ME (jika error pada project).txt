@@ -1,0 +1,7 @@
+Jika terjadi error dibagian library yang hilang. Harap lakukan langkah berikut:
+1. Klik kanan pada nama project
+2. Pilih resolve problem project
+3. Lalu buat library baru dengan nama Librarybaru
+4. Masukkan folder jcalender yang sudah di sediakan didalam folder UTS saya
+
+Terimakasih semoga membantu
