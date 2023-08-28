@@ -1,0 +1,106 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.1
+Created-By: 1.7.0_07-b10 (Oracle Corporation)
+Built-By: TIBCO Software Inc.
+Specification-Title: JasperReports Library
+Specification-Version: 6.0.0
+Specification-Vendor: TIBCO Software Inc.
+Implementation-Title: net.sf.jasperreports.engine
+Implementation-Version: 6.0.0
+Implementation-Vendor: TIBCO Software Inc.
+Bundle-Name: JasperReports Library
+Bundle-Version: 6.0.0
+Bundle-Vendor: TIBCO Software Inc.
+Bundle-SymbolicName: net.sf.jasperreports.engine
+Bundle-ClassPath: .
+Export-Package: net.sf.jasperreports.ant,net.sf.jasperreports.charts,n
+ et.sf.jasperreports.charts.base,net.sf.jasperreports.charts.design,ne
+ t.sf.jasperreports.charts.fill,net.sf.jasperreports.charts.type,net.s
+ f.jasperreports.charts.util,net.sf.jasperreports.charts.xml,net.sf.ja
+ sperreports.compilers,net.sf.jasperreports.components,net.sf.jasperre
+ ports.components.barbecue,net.sf.jasperreports.components.barcode4j,n
+ et.sf.jasperreports.components.charts,net.sf.jasperreports.components
+ .headertoolbar,net.sf.jasperreports.components.headertoolbar.actions,
+ net.sf.jasperreports.components.headertoolbar.json,net.sf.jasperrepor
+ ts.components.headertoolbar.json.resources,net.sf.jasperreports.compo
+ nents.headertoolbar.resources,net.sf.jasperreports.components.headert
+ oolbar.resources.images,net.sf.jasperreports.components.headertoolbar
+ .resources.images.format,net.sf.jasperreports.components.headertoolba
+ r.resources.images.jive,net.sf.jasperreports.components.headertoolbar
+ .resources.images.style,net.sf.jasperreports.components.headertoolbar
+ .resources.require,net.sf.jasperreports.components.iconlabel,net.sf.j
+ asperreports.components.list,net.sf.jasperreports.components.map,net.
+ sf.jasperreports.components.map.fill,net.sf.jasperreports.components.
+ map.resources,net.sf.jasperreports.components.map.resources.require,n
+ et.sf.jasperreports.components.map.resources.templates,net.sf.jasperr
+ eports.components.map.type,net.sf.jasperreports.components.sort,net.s
+ f.jasperreports.components.sort.actions,net.sf.jasperreports.componen
+ ts.sort.resources,net.sf.jasperreports.components.sort.resources.imag
+ es,net.sf.jasperreports.components.spiderchart,net.sf.jasperreports.c
+ omponents.spiderchart.type,net.sf.jasperreports.components.table,net.
+ sf.jasperreports.components.table.fill,net.sf.jasperreports.component
+ s.table.util,net.sf.jasperreports.crosstabs,net.sf.jasperreports.cros
+ stabs.base,net.sf.jasperreports.crosstabs.design,net.sf.jasperreports
+ .crosstabs.fill,net.sf.jasperreports.crosstabs.fill.calculation,net.s
+ f.jasperreports.crosstabs.interactive,net.sf.jasperreports.crosstabs.
+ type,net.sf.jasperreports.crosstabs.xml,net.sf.jasperreports.data,net
+ .sf.jasperreports.data.bean,net.sf.jasperreports.data.cache,net.sf.ja
+ sperreports.data.csv,net.sf.jasperreports.data.ds,net.sf.jasperreport
+ s.data.ejbql,net.sf.jasperreports.data.empty,net.sf.jasperreports.dat
+ a.excel,net.sf.jasperreports.data.hibernate,net.sf.jasperreports.data
+ .hibernate.spring,net.sf.jasperreports.data.jdbc,net.sf.jasperreports
+ .data.jndi,net.sf.jasperreports.data.json,net.sf.jasperreports.data.m
+ ondrian,net.sf.jasperreports.data.provider,net.sf.jasperreports.data.
+ qe,net.sf.jasperreports.data.xls,net.sf.jasperreports.data.xlsx,net.s
+ f.jasperreports.data.xml,net.sf.jasperreports.data.xmla,net.sf.jasper
+ reports.engine,net.sf.jasperreports.engine.analytics,net.sf.jasperrep
+ orts.engine.analytics.data,net.sf.jasperreports.engine.analytics.data
+ set,net.sf.jasperreports.engine.base,net.sf.jasperreports.engine.comp
+ onent,net.sf.jasperreports.engine.convert,net.sf.jasperreports.engine
+ .data,net.sf.jasperreports.engine.design,net.sf.jasperreports.engine.
+ design.events,net.sf.jasperreports.engine.dtds,net.sf.jasperreports.e
+ ngine.export,net.sf.jasperreports.engine.export.data,net.sf.jasperrep
+ orts.engine.export.draw,net.sf.jasperreports.engine.export.oasis,net.
+ sf.jasperreports.engine.export.ooxml,net.sf.jasperreports.engine.expo
+ rt.ooxml.docx,net.sf.jasperreports.engine.export.ooxml.docx._rels,net
+ .sf.jasperreports.engine.export.ooxml.pptx,net.sf.jasperreports.engin
+ e.export.ooxml.pptx._rels,net.sf.jasperreports.engine.export.ooxml.pp
+ tx.ppt,net.sf.jasperreports.engine.export.ooxml.pptx.ppt.slideLayouts
+ ,net.sf.jasperreports.engine.export.ooxml.pptx.ppt.slideLayouts._rels
+ ,net.sf.jasperreports.engine.export.ooxml.pptx.ppt.slideMasters,net.s
+ f.jasperreports.engine.export.ooxml.pptx.ppt.slideMasters._rels,net.s
+ f.jasperreports.engine.export.ooxml.pptx.ppt.theme,net.sf.jasperrepor
+ ts.engine.export.ooxml.type,net.sf.jasperreports.engine.export.ooxml.
+ xlsx,net.sf.jasperreports.engine.export.ooxml.xlsx._rels,net.sf.jaspe
+ rreports.engine.export.tabulator,net.sf.jasperreports.engine.export.t
+ ype,net.sf.jasperreports.engine.export.zip,net.sf.jasperreports.engin
+ e.fill,net.sf.jasperreports.engine.fonts,net.sf.jasperreports.engine.
+ images,net.sf.jasperreports.engine.print,net.sf.jasperreports.engine.
+ query,net.sf.jasperreports.engine.scriptlets,net.sf.jasperreports.eng
+ ine.style,net.sf.jasperreports.engine.type,net.sf.jasperreports.engin
+ e.util,net.sf.jasperreports.engine.util.xml,net.sf.jasperreports.engi
+ ne.virtualization,net.sf.jasperreports.engine.xml,net.sf.jasperreport
+ s.export,net.sf.jasperreports.export.annotations,net.sf.jasperreports
+ .export.parameters,net.sf.jasperreports.export.type,net.sf.jasperrepo
+ rts.expressions,net.sf.jasperreports.extensions,net.sf.jasperreports.
+ fonts,net.sf.jasperreports.fonts.pictonic,net.sf.jasperreports.functi
+ ons,net.sf.jasperreports.functions.annotations,net.sf.jasperreports.g
+ overnors,net.sf.jasperreports.j2ee,net.sf.jasperreports.j2ee.servlets
+ ,net.sf.jasperreports.olap,net.sf.jasperreports.olap.mapping,net.sf.j
+ asperreports.olap.mondrian,net.sf.jasperreports.olap.olap4j,net.sf.ja
+ sperreports.olap.result,net.sf.jasperreports.olap.xmla,net.sf.jasperr
+ eports.renderers,net.sf.jasperreports.repo,net.sf.jasperreports.searc
+ h,net.sf.jasperreports.swing,net.sf.jasperreports.types,net.sf.jasper
+ reports.types.date,net.sf.jasperreports.util,net.sf.jasperreports.vie
+ w,net.sf.jasperreports.view.images,net.sf.jasperreports.view.save,net
+ .sf.jasperreports.web,net.sf.jasperreports.web.actions,net.sf.jasperr
+ eports.web.commands,net.sf.jasperreports.web.listeners,net.sf.jasperr
+ eports.web.servlets,net.sf.jasperreports.web.servlets.resources,net.s
+ f.jasperreports.web.servlets.resources.require,net.sf.jasperreports.w
+ eb.servlets.resources.require.report,net.sf.jasperreports.web.servlet
+ s.resources.require.util,net.sf.jasperreports.web.servlets.resources.
+ require.viewer,net.sf.jasperreports.web.servlets.resources.templates,
+ net.sf.jasperreports.web.servlets.resources.viewer,net.sf.jasperrepor
+ ts.web.util
+DynamicImport-Package: *
+
